@@ -17,7 +17,7 @@ Ha pasado mucho tiempo desde 2004 pero mi intención es recuperar los posts más
 Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 
 > Actualmente el sitio se encuentra en construcción.
-{: .prompt-tip }
+{: .prompt-info }
 
 <h3>ChangeLog de MaxiNET</h3>
 **[Julio 2023]** Se deja atrás el alojamiento en la Raspberry, cambio de servidor y diseño.

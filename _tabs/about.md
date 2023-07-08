@@ -10,7 +10,7 @@ Durante una década, la web se convirtió en un espacio donde compartía cosas q
 
 En 2013 decidí dar el salto y aprovechar la versatilidad de la RaspBerry y migré la Web. En aquel entonces Telefónica me proporcionaba una IP estática. La migración a la Raspberry fue todo un desafío. Aproveché la oportunidad para actualizar el sistema operativo con una distribución de Linux más reciente.
 
-En junio de 2023, realicé una web completamente nueva para MaxiNET.es, dejé atrás MySQL y PHP y me decanté por Jekyll, previo tímido intento con Hugo.
+En junio de 2023, realicé una web completamente nueva para MaxiNET.es, dejé atrás MySQL y PHP y me decanté por Jekyll, previo tímido intento con [Hugo](https://gohugo.io/).
 
 Ha pasado mucho tiempo desde 2004 pero mi intención es recuperar los posts más interesantes y publicarnos aquí.
 

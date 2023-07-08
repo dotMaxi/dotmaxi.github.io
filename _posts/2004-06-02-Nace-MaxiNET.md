@@ -1,6 +1,6 @@
 ---
 title: Nace MaxiNET
-date: 2023-06-07 14:10:00 +0000
+date: 2004-06-02 14:10:00 +0000
 categories: [MaxiNET]
 tags: [web]
 ---

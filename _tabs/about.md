@@ -19,6 +19,10 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 > Actualmente el sitio se encuentra en construcción.
 {: .prompt-info }
 
+<h3>Objetivos de MaxiNET</h3>
+- [ ] Prueba
+- [X] Prueba 2
+
 <h3>ChangeLog de MaxiNET</h3>
 **[Julio 2023]** Se deja atrás el alojamiento en la [Raspberry](https://amzn.to/3O7Hgy1), cambio de servidor y diseño.   
 **[Julio 2004]** Nace MaxiNET.es

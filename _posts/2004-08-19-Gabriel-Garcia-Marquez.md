@@ -4,7 +4,7 @@ date: 2004-08-19 14:00:00 +0000
 categories: [Personajes]
 ---
 
-**Se despide un genio.***   
+**Se despide un genio.**   
 
 Gabriel García Márquez se ha retirado de la vida pública por razones de salud: Cáncer linfático. Ahora, parece que es cada vez más grave. Ha enviado una carta de despedida a sus amigos y gracias a Internet está siendo difundida.   
 

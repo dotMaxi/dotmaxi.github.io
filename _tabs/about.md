@@ -14,7 +14,7 @@ En junio de 2023, realicé una web completamente nueva para MaxiNET.es, dejé at
 
 Ha pasado mucho tiempo desde 2004 pero mi intención es recuperar los posts más interesantes y publicarnos aquí.
 
-Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
+Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.   
 
 > Actualmente el sitio se encuentra en construcción.
 {: .prompt-info }

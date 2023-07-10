@@ -21,7 +21,7 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 
 <h3>Objetivos de MaxiNET</h3>
 - [ ] Restaurar los posts anteriores.   
-
+- [X] Migrar a Jekyll - 
 
 <h3>ChangeLog de MaxiNET</h3>
 - **[Julio 2023]** Se deja atrás el alojamiento en la [Raspberry](https://amzn.to/3O7Hgy1), cambio de servidor y diseño.   

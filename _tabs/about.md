@@ -21,7 +21,7 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 
 <h3>Cosas pendientes</h3>
 - [ ] Restaurar los posts anteriores.
-- [ ] Activar DNSSEC en el dominio.  
+- [ ] Activar ECDSA en el dominio.  
 - [X] Migrar a Jekyll - [[+ info]](/posts/Bienvenidos-al-nuevo-MaxiNET/)
 
 <h3>ChangeLog de MaxiNET</h3>

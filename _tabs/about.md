@@ -19,8 +19,9 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 > Actualmente el sitio se encuentra en construcción.
 {: .prompt-info }
 
-<h3>Objetivos de MaxiNET</h3>
-- [ ] Restaurar los posts anteriores.   
+<h3>Cosas pendientes</h3>
+- [ ] Restaurar los posts anteriores.
+- [ ] Activar DNSSEC en el dominio.  
 - [X] Migrar a Jekyll - [[+ info]](/posts/Bienvenidos-al-nuevo-MaxiNET/)
 
 <h3>ChangeLog de MaxiNET</h3>

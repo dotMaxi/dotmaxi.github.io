@@ -1,6 +1,6 @@
 ---
 title: Fix de Power Mode en Visual Studio Code
-date: 2023-07-15 14:00:00 +0000
+date: 2023-07-14 14:00:00 +0000
 categories: [Programación]
 tags: [vscode]
 pin: false

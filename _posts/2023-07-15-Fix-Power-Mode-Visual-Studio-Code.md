@@ -18,10 +18,3 @@ Para desactivar esta animación podemos hacerlo de dos maneras:
 ```json
 "powermode.shake.enabled": false
 ```
-
-También tengo desactivado el timer y el counter:
-
-```json
-"powermode.combo.counterEnabled": "hide"
-"powermode.combo.timerEnabled": "hide"
-```

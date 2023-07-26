@@ -12,7 +12,7 @@ En 2013 decidí dar el salto y aprovechar la versatilidad de la [RaspBerry](http
 
 En junio de 2023, realicé una web completamente nueva para MaxiNET.es, dejé atrás MySQL y PHP y me decanté por [Jekyll](https://jekyllrb.com/), previo tímido intento con [Hugo](https://gohugo.io/).
 
-Ha pasado mucho tiempo desde 2004 pero mi intención es recuperar los posts más ~~interesantes~~ y publicarlos aquí.
+Ha pasado mucho tiempo desde 2004 pero mi intención es recuperar los posts más ~~interesantes~~ significantes y publicarlos aquí.
 
 Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.   
 

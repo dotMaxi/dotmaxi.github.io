@@ -27,3 +27,6 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 <h3>ChangeLog de MaxiNET</h3>
 - **[Julio 2023]** Se deja atrás el alojamiento en la [Raspberry](https://amzn.to/3O7Hgy1), cambio de servidor y diseño.   
 - **[Julio 2004]** Nace MaxiNET.es
+
+### Donaciones
+- [¿Me invitas a un café?](https://www.buymeacoffee.com/maximoperez)

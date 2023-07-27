@@ -30,4 +30,5 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 
 ### Donaciones
 - [**¿Me invitas a un café?**](https://www.buymeacoffee.com/maximoperez)
-- **Cardano**: addr1q8hgk7wz2mfx7rmyyh4ev08lt4ezgguusv5nsxe307vyxk6cwx8kzjcgqwg7j5uganamrevwyx42mw7e7cfxkfc6uewsc6z20g
+- **Cardano**: [Mi wallet](https://maxinet.es/assets/stuff/wallet.txt)
+

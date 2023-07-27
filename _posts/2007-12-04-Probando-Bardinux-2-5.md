@@ -9,7 +9,7 @@ El otro día tuve la oportunidad de asistir a un curso de **Administración Avan
 
 A la salida delc urso nos regalaron un CD con Bardinux 2.5 recién sacabo del horno!
 
-PAra bajarte la versión 2.5 tienes que esperar un poco a que finalmente la publiquen en la Web. Ya la tengo instalada en el portátil y de momento va bien.
+Para bajarte la versión 2.5 tienes que esperar un poco a que finalmente la publiquen en la Web. Ya la tengo instalada en el portátil y de momento va bien.
 
 Felicidades a René, Adrián, Esaú y Alberto :)
 

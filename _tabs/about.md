@@ -21,7 +21,7 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 
 <h3>Cosas pendientes</h3>
 - [ ] Restaurar los posts anteriores.
-- [ ] Activar ECDSA en el dominio.  
+- [X] Activar ECDSA en el dominio - [[+info]](https://maxinet.es/posts/Ya-tenemos-ECDSA/)  
 - [X] Migrar a Jekyll - [[+ info]](/posts/Bienvenidos-al-nuevo-MaxiNET/)
 
 <h3>ChangeLog de MaxiNET</h3>

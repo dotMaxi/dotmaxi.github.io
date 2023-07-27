@@ -30,5 +30,5 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 
 ### Donaciones
 - [**¿Me invitas a un café?**](https://www.buymeacoffee.com/maximoperez)
-- **Cardano**: [Mi wallet](https://maxinet.es/assets/stuff/wallet.txt) MD5 del fichero wallet.txt: *91372e49658bca740ecf375d61b68352*
+- **Cardano**: [Mi wallet](https://maxinet.es/assets/stuff/wallet.txt) - MD5 de wallet.txt: *91372e49658bca740ecf375d61b68352*
 

@@ -26,4 +26,4 @@ Adicionalmente, también recomiendo añadir/modificar las siguientes líneas:
 "powermode.combo.location": "off"
 "powermode.combo.timerEnabled": "hide"
 ```
-{: file="settings.jason" }{: .nolineno }
+{: file="settings.jason" .nolineno }

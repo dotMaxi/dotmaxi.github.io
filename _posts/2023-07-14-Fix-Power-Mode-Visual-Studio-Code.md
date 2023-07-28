@@ -14,11 +14,11 @@ _Efecto del Power Mode_
 
 Para desactivar esta animación podemos hacerlo de dos maneras:
 1. En la configuración de la extensión, desactivar la opción `Power Mode > Shake`.
-2. En las preferencias de usuario del Visual Studio Code (`settings.jason`), añadir esta línea:
+2. En las preferencias de usuario del Visual Studio Code (`settings.json`), añadir esta línea:
 ```json
 "powermode.shake.enabled": false
 ```
-{: file="settings.jason" }
+{: file="settings.json" .nolineno }
 
 Adicionalmente, también recomiendo añadir/modificar las siguientes líneas:
 ```json
@@ -26,4 +26,4 @@ Adicionalmente, también recomiendo añadir/modificar las siguientes líneas:
 "powermode.combo.location": "off"
 "powermode.combo.timerEnabled": "hide"
 ```
-{: file="settings.jason" .nolineno }
+{: file="settings.json" .nolineno }

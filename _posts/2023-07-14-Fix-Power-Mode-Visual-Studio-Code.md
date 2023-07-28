@@ -18,3 +18,12 @@ Para desactivar esta animación podemos hacerlo de dos maneras:
 ```json
 "powermode.shake.enabled": false
 ```
+{: file="settings.jason" }
+
+Adicionalmente, también recomiendo añadir/modificar las siguientes líneas:
+```json
+"powermode.combo.counterEnabled": "hide"
+"powermode.combo.location": "off"
+"powermode.combo.timerEnabled": "hide"
+```
+{: file="settings.jason" }{: .nolineno }

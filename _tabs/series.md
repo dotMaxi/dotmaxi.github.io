@@ -1,6 +1,6 @@
 ---
 title: Series
-icon: fas layer-group
+icon: fas fa-layer-group
 order: 2
 ---
 

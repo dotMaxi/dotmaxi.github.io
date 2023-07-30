@@ -1,6 +1,6 @@
 ---
 title: Contacto
-icon: fas fa-mail-reply
+icon: fas fa-envelope
 order: 5
 ---
 

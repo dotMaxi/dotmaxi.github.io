@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 Hola, soy Maxi y todo comienza en 2004 en un ordenador casero con Red Hat 9. Soy un entusiasta de la tecnología y estaba decidido a compartir información con el resto del mundo. Los primeros servicios que monté fueron para FTP, IRC y Web.

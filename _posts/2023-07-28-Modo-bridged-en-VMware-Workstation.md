@@ -1,8 +1,8 @@
 ---
 title: Modo bridged en VMware Workstation
 date: 2023-07-28 11:52:00 +0000
-categories: [Off-Topic]
-tags: [vmware, red]
+categories: [How-to]
+tags: [vmware, red, howto]
 pin: false
 toc: false
 ---

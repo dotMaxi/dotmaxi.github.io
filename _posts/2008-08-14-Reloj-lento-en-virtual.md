@@ -12,6 +12,6 @@ Volvía a poner la hora bien y al cabo de 5 minutos se iba quedando retrasado. U
 
 Empecé a buscar información en la Web de VMware hasta que encontré que había que indicarle al final de la linea de carga del Kernel lo siguiente:
 
-`clock=pit nosmp noapic nolapic``
+`clock=pit nosmp noapic nolapic`
 
 Reinicié la máquina y funcionó :)

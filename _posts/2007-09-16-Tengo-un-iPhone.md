@@ -6,6 +6,6 @@ tags: [viajes, eeuu]
 pin: false
 toc: false
 ---
-Ya es mio. Hace un par de horas en la tienda de Apple en la Quinta Avenida, me comoré el iPhone de 8GB.
+Ya es mio. Hace un par de horas en la tienda de Apple en la Quinta Avenida, me compré el iPhone de 8GB.
 
 **Actualización**: Ya tengo el iPhone en Tenerife funcionando con MoviStar :)

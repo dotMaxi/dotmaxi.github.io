@@ -21,6 +21,7 @@ Por cierto, este sitio no usa cookies 🍪, no quedan, me las comí todas.
 
 <h3>Cosas pendientes</h3>
 - [ ] Restaurar los posts anteriores.
+- [ ] Crear mi [página pública](https://maxibook.notion.site/M-ximo-P-rez-7e0637ebe4cb4386802e24319529bb4b/) en Notion.
 - [X] Activar ECDSA en el dominio - [[+info]](https://maxinet.es/posts/Ya-tenemos-ECDSA/)  
 - [X] Migrar a Jekyll - [[+ info]](/posts/Bienvenidos-al-nuevo-MaxiNET/)
 
